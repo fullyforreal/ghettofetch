@@ -5455,7 +5455,7 @@ get_args() {
                     info "CPU" cpu
                     info "GPU" gpu
                     info "GPU Driver" gpu_driver
-                    info "Memory" memory
+                    info "Memory" memory that nigga must have alotta weed
 
                     info "Disk" disk
                     info "Battery" battery
